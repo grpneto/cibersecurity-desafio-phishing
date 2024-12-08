@@ -26,4 +26,4 @@
 O site clonado que era sugerido no desafio inicialmente era o Facebook, entretanto, erros como restrições e blocks nos navegadores, 
 além de algum tipo de complicação com o servidor Apache, me fizeram optar por clonar o Instagram. Provavelmente existe algum nova 
 atualização em alguns sites que impede a resolução para páginas clonadas. Mesmo parecendo simples, esses erros tornaram o desafio
-um pouco mais desafiador. 
+um pouco mais trabalhoso. 
